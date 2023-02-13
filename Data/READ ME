@@ -13,3 +13,6 @@ from Kaggle (https://www.kaggle.com/datasets/aguado/bike-rental-data-set-uci?sel
 
 insurance.csv
 from Kaggle (https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
+
+flu.csv
+from CDC https://gis.cdc.gov/grasp/FluView/FluHospRates.html
